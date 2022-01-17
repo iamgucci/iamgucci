@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 **iamgucci/iamgucci** **[🔥Fire A Cloud](https://www.firea.cloud)**
 
@@ -7,3 +7,9 @@
 - 📫 How to reach me: **mark@firea.cloud**
 - 😄 Pronouns: he/him/bot 
 - ⚡ Fun fact: I have an amazing son! 
+
+## @GitHub Admins ☁️
+- @iamgucci
+- @fireacloud
+- @ifireacloud
+- @fireai-cloud 
